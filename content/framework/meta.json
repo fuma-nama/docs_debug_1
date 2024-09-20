@@ -1,0 +1,9 @@
+{
+    "title": "Framework",
+    "root": true,
+    "pages": [
+      "---Get Started---",
+      "index.mdx",
+      "test.mdx"
+    ]
+  }
